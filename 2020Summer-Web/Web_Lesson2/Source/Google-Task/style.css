@@ -193,7 +193,7 @@ footer a:hover {
   display: grid;
   grid-gap: 10px;
   grid-template-columns: auto auto auto auto;
-  padding: 150px 0;
+  padding: 175px 0;
   justify-content: space-evenly;
   position: absolute;
 }
