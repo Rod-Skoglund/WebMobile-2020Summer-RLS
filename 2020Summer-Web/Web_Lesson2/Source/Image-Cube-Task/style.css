@@ -1,8 +1,19 @@
+/* ************************************************************************** */
+/* Class - Web and Mobile Programming                                         */
+/* Semester / School - Summer 2020 / UMKC                                     */
+/* Assignment: Web-Lesson2                                                    */
+/* Author: Rod Skoglund                                                       */
+/* File: style.css for the CSS Task                                           */
+/* ************************************************************************** */
+
+/* This class centers the block in the middle of the page                     */
 .center{
     display: flex;
     justify-content: center;
     vertical-align: middle;
 }
+
+/* This class defines the grid and padding between the different blocks       */
 .grid-container {
     display: grid;
     grid-gap: 10px;
@@ -12,6 +23,7 @@
     position: absolute;
 }
 
+/* This class defines the size and border for the individual blocks           */
 .item {
     display: block;
     height: 70px;
