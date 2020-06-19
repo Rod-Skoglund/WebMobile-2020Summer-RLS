@@ -32,13 +32,15 @@ input[type='text'] {
   padding: 5px;
 }
 
-.information, .avatar {
-  vertical-align: top;
-  display: inline-block;
-}
+/*.information, .avatar {*/
+/*  !*vertical-align: top;*!*/
+/*  display: inline-block;*/
+/*}*/
 
 .information {
   text-align: center;
+  font-size: xx-large;
+  margin: 10px;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
 }

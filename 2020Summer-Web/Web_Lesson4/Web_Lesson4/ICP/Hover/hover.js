@@ -1,7 +1,7 @@
 /******************************************************************************/
 /* Class - Web and Mobile Programming                                         */
 /* Semester / School - Summer 2020 / UMKC                                     */
-/* Assignment: Web-Lesson3                                                    */
+/* Assignment: Web-Lesson4                                                    */
 /* Author: Rod Skoglund                                                       */
 /* File: hover.js for the Hover Image task                                    */
 /******************************************************************************/
