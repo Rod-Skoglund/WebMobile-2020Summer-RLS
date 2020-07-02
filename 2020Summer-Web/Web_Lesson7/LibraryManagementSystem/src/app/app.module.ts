@@ -21,6 +21,7 @@ import {
   MatButtonModule,
   MatCardModule,
   MatFormFieldModule } from '@angular/material';
+import { BookDeleteComponent } from './book-delete/book-delete.component';
 
 const appRoutes: Routes = [
   {
@@ -55,7 +56,8 @@ const appRoutes: Routes = [
     BookComponent,
     BookDetailComponent,
     BookCreateComponent,
-    BookEditComponent
+    BookEditComponent,
+    BookDeleteComponent
   ],
   imports: [
     RouterModule.forRoot(appRoutes),
