@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mobile_Lesson1</string>
+    <string name="Login_Screen">Please Login</string>
+    <string name="UserName">Enter Username</string>
+    <string name="Password">Enter Password</string>
+    <string name="SubmitButton">Submit</string>
+    <string name="welcome">Welcome</string>
+    <string name="Logout">Logout</string>
+</resources>

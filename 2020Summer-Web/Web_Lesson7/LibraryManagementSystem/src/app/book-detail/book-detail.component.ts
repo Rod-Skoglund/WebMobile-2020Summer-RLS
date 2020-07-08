@@ -1,4 +1,4 @@
-import {Component, OnInit} from '@angular/core';
+]]import {Component, OnInit} from '@angular/core';
 import {ActivatedRoute, Router} from '@angular/router';
 import {ApiService} from '../api.service';
 
@@ -8,7 +8,7 @@ import {ApiService} from '../api.service';
   styleUrls: ['./book-detail.component.css']
 })
 export class BookDetailComponent implements OnInit {
-
+w``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
   book = {};
 
   constructor(private route: ActivatedRoute, private api: ApiService, private router: Router) {
