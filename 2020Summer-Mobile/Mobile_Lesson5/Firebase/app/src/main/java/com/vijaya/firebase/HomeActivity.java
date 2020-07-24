@@ -70,7 +70,7 @@ public class HomeActivity extends AppCompatActivity {
                 Log.e(TAG, "Failed to read app title value.", error.toException());
             }
         });
-// the change
+// the change to add a signout functionality
         btnsignout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
