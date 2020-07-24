@@ -6,13 +6,26 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c8831ef-3c11-4eda-8e3b-7b1f00d69a09" name="Default Changelist" comment="" />
+    <list default="true" id="0c8831ef-3c11-4eda-8e3b-7b1f00d69a09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="5d3c40c7" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_24" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -25,7 +38,11 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="1emUeHONAL2pzZrktMI6WVBI9XM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,9 +55,10 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="5d3c40c7" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-07-17T19:47:38.071Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Temp/Mobile_Lesson5/SQLite/SQLite" />
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -136,10 +154,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="883" y="174" key="AndroidProcessChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1595014281696" />
-    <state x="761" y="121" key="FileChooserDialogImpl" timestamp="1594926552435">
+    <state x="761" y="121" key="FileChooserDialogImpl" timestamp="1595278415232">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="761" y="121" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1594926552435" />
+    <state x="761" y="121" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1595278415232" />
     <state width="1109" height="256" key="GridCell.Tab.0.bottom" timestamp="1595014479140">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -172,9 +190,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1109" height="256" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1595014479142" />
-    <state x="677" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1595014996396">
+    <state x="677" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1595278368092">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="677" y="232" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1595014996396" />
+    <state x="677" y="232" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1595278368092" />
   </component>
 </project>
