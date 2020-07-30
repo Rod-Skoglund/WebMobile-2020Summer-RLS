@@ -20,7 +20,7 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
     //---//
-    private TextToSpeech textToSpeach;
+    private TextToSpeech textToSpeech;
     private SharedPreferences preferences;
     private SharedPreferences.Editor editor;
     private static final String PREFS = "prefs";
@@ -49,10 +49,10 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         // change 2
-        textToSpeach = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
+        textToSpeech = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
             public void onInit(int status) {
                 if (status == TextToSpeech.SUCCESS) {
-                    int text = textToSpeach.setLanguage(Locale.UK);
+                    int text = textToSpeech.setLanguage(Locale.UK);
                     speak("Hello, what is your name?"); // Now speak Hello
                 } }});
     }
@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void speak(String text){
         // Using TTS speak
-        textToSpeach.speak(text, TextToSpeech.QUEUE_FLUSH, null);
+        textToSpeech.speak(text, TextToSpeech.QUEUE_FLUSH, null);
     }
 
     private void recognition(String text){ // Recognize speaking
